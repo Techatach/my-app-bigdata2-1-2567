@@ -62,9 +62,12 @@ export default function Header() {
               <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
             </li>
             <li>
-              <a>AEC Ranking</a>
+              <a href="/aecranking">AEC Ranking</a>
             </li>
             <li>
+              <a href="/evaluation">การประเมินยุทธศาสตร์ชาติ</a>
+            </li>
+            {/* <li>
               <details>
                 <summary>การประเมินยุทธศาสตร์ชาติ</summary>
                 <ul className="p-2">
@@ -76,7 +79,7 @@ export default function Header() {
                   </li>
                 </ul>
               </details>
-            </li>
+            </li> */}
             <li>
               <a>ติดต่อ</a>
             </li>
