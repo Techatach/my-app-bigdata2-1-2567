@@ -65,7 +65,7 @@ export default function Header() {
               <a href="/aecranking">AEC Ranking</a>
             </li>
             <li>
-              <a href="/evaluation">การประเมินยุทธศาสตร์ชาติ</a>
+              <a href="/productlist">การประเมินยุทธศาสตร์ชาติ</a>
             </li>
             {/* <li>
               <details>
